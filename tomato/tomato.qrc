@@ -1,0 +1,10 @@
+<RCC>
+    <qresource prefix="/tomato/png">
+        <file>image/layer1-5.png</file>
+        <file>image/wristwatch.png</file>
+    </qresource>
+    <qresource prefix="/tomato/ring">
+        <file>music/chao_hao_ting.mp3</file>
+        <file>music/shao_lin.mp3</file>
+    </qresource>
+</RCC>
